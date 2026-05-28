@@ -14,7 +14,9 @@ Microsoft Excel: For data cleaning and initial preparation.
  Key Insights
  
 Visualized the count of heart disease cases by Age Category.
+
 Identified trends in heart disease distribution using line and bar charts.
+
 Added interactive slicers for better data exploration.
 
  Files in this Repository
