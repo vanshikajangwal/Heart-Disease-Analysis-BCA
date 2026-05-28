@@ -20,5 +20,7 @@ Added interactive slicers for better data exploration.
  Files in this Repository
  
 Heart_Disease_Analysis.pbix: The main Power BI project file.
+
 Heart_Data_Raw.xlsx: The raw dataset used for analysis.
+
 Dashboard_Screenshot.png: A preview of the final dashboard.
