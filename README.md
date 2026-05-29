@@ -5,7 +5,7 @@ Heart Disease Analysis Dashboard
 This project analyzes heart disease patterns across different age groups using a dataset of medical records. 
 The goal is to visualize the distribution of heart disease and identify which age categories are most affected.
 
-![Heart Disease Dashboard](Dashboard_Screenshot.png)
+<img src="Dashboard_Screenshot.png" alt="Heart Disease Dashboard" width="600">
 
  Tools Used:
  
